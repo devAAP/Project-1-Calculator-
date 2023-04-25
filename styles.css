@@ -49,6 +49,10 @@ button {
   box-shadow: -8px -8px 15px rgba(113, 115, 119, 0.5) ;
 }
 
+.operator1 {
+  background: rgb(165,165,165)
+}
+
 input {
   width: 320px;
   border: none;
@@ -71,3 +75,4 @@ input::placeholder {
 .equalBtn {
   background-color: #fb7c14;
 } 
+
